@@ -5,12 +5,12 @@
       <![CDATA[Dummy is executed]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-05-09T12:53:15 IST" name="RegressionSuite" finished-at="2025-05-09T12:53:21 IST" duration-ms="6481">
+  <suite started-at="2025-05-09T19:32:29 IST" name="Default suite" finished-at="2025-05-09T19:32:35 IST" duration-ms="6028">
     <groups>
     </groups>
-    <test started-at="2025-05-09T12:53:15 IST" name="Test" finished-at="2025-05-09T12:53:21 IST" duration-ms="6481">
+    <test started-at="2025-05-09T19:32:29 IST" name="Default test" finished-at="2025-05-09T19:32:35 IST" duration-ms="6028">
       <class name="Dummy.DummyTest">
-        <test-method signature="AddDummy()[pri:0, instance:Dummy.DummyTest@5c6648b0]" started-at="2025-05-09T12:53:15 IST" name="AddDummy" finished-at="2025-05-09T12:53:21 IST" duration-ms="6421" status="PASS">
+        <test-method signature="AddDummy()[pri:0, instance:Dummy.DummyTest@5c6648b0]" started-at="2025-05-09T19:32:29 IST" name="AddDummy" finished-at="2025-05-09T19:32:35 IST" duration-ms="5959" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Dummy is executed]]>
@@ -18,6 +18,6 @@
           </reporter-output>
         </test-method> <!-- AddDummy -->
       </class> <!-- Dummy.DummyTest -->
-    </test> <!-- Test -->
-  </suite> <!-- RegressionSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

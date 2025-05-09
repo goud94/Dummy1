@@ -15,7 +15,7 @@ public class DummyTest {
 		Reporter.log("Dummy is executed",true);
 		
 		System.out.println("execution done");
-		driver.close();
+		
 	}
 	
 
